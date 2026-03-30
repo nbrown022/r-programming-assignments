@@ -1,0 +1,13 @@
+Package: Friedman
+Title: Simple Data Visualization and Summary Tools
+Version: 0.0.0.9000
+Authors@R: person("Naomi", "Brown", email="naomi.brown@example.com", role=c("aut","cre"))
+Description: Provides simple functions for exploratory data analysis,
+including automatic plots for numeric and categorical variables,
+interactive scatter plots, and basic summary statistics for datasets.
+Depends: (>=3.1.2)
+Imports: ggplot2, plotly
+License: CC0
+LazyData: true
+URL: https://github.com/nbrown022/r-programming-assignments
+BugReports: https://github.com/nbrown022/r-programming-assignments/issues
